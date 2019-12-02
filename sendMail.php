@@ -9,7 +9,7 @@ $webmaster_email = "kdkaprabi@gmail.com";
 This bit sets the URLs of the supporting pages.
 If you change the names of any of the pages, you will need to change the values here.
 */
-$feedback_page = "sendMail.php";
+$feedback_page = "index.php";
 $error_page = "error_message.html";
 $thankyou_page = "thank_you.html";
 
